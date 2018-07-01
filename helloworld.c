@@ -1,4 +1,4 @@
-int main(int arcg,char * argv[])
+int main()
 {
-printf("Hello, world!\n");
+printf("Hello, world! wtf\n");
 }
